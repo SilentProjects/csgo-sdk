@@ -9,4 +9,4 @@
 - GuidedHacking: https://guidedhacking.com/members/psilent.122196/
 
 ## Other information
-- Do not contact me for help with the SDK create a issue on this repository.
+- Do not contact me for help with the SDK, create a issue on this repository.
